@@ -1,31 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:05.461134
+#+DATE: 2015-08-30 21:45:07.535835
 #+TITLE: 虛堂和尚語錄
 #+PROPERTY: CBETA_ID T47n2000
 #+PROPERTY: ID KR6q0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 2000
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0065_T_007-1034b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 虛堂和尚語錄卷之七¶
+虛堂和尚語錄卷之七¶
 ¶
 
-偈頌
-:PROPERTIES:
-:head: 偈頌
-:END:
-¶
+偈頌¶
 
-釋雪竇革轍二門
-:PROPERTIES:
-:head: 釋雪竇革轍二門
-:END:
-¶
+釋雪竇革轍二門¶
 
 #+BEGIN_VERSE
 「　迦葉聆箏起舞。
@@ -35,11 +26,7 @@
 #+END_VERSE
 」¶
 
-大功不宰
-:PROPERTIES:
-:head: 大功不宰
-:END:
-¶
+大功不宰¶
 
 #+BEGIN_VERSE
 「　碧玉溪頭黃葉村。
@@ -49,25 +36,17 @@
 #+END_VERSE
 」¶
 
-善應無方
-:PROPERTIES:
-:head: 善應無方
-:END:
-¶
+善應無方¶
 
 #+BEGIN_VERSE
-「　雨脚蹣跚林葉稀。
+「　兩脚蹣跚林葉稀。
 　去來初不涉離微。
 　靈機未¶轉已先照。
 　蹤跡擬從何處歸。
 #+END_VERSE
 」¶
 
-緣對
-:PROPERTIES:
-:head: 緣對
-:END:
-¶
+緣對¶
 
 #+BEGIN_VERSE
 「　石床偃月夢魂冷。
@@ -77,11 +56,7 @@
 #+END_VERSE
 」¶
 
-君子有所思
-:PROPERTIES:
-:head: 君子有所思
-:END:
-¶
+君子有所思¶
 
 #+BEGIN_VERSE
 「　孤舟十萬里。
@@ -92,10 +67,6 @@
 」¶
 
 閱宗鏡錄
-:PROPERTIES:
-:head: 閱宗鏡錄
-:END:
-
 <pb:KR6q0065_T_007-1034c>¶
 
 #+BEGIN_VERSE
@@ -109,11 +80,7 @@
 #+END_VERSE
 」¶
 
-鑄印
-:PROPERTIES:
-:head: 鑄印
-:END:
-¶
+鑄印¶
 
 #+BEGIN_VERSE
 「　袍著金花勒小驄。
@@ -123,11 +90,7 @@
 #+END_VERSE
 」¶
 
-銷印
-:PROPERTIES:
-:head: 銷印
-:END:
-¶
+銷印¶
 
 #+BEGIN_VERSE
 「　鐵鞋無底飽風霜。
@@ -137,11 +100,7 @@
 #+END_VERSE
 」¶
 
-回雁峯晚望
-:PROPERTIES:
-:head: 回雁峯晚望
-:END:
-¶
+回雁峯晚望¶
 
 #+BEGIN_VERSE
 「　孤筇影落清湘外。
@@ -151,11 +110,7 @@
 #+END_VERSE
 」¶
 
-衡陽龐居士庵
-:PROPERTIES:
-:head: 衡陽龐居士庵
-:END:
-¶
+衡陽龐居士庵¶
 
 #+BEGIN_VERSE
 「　居士當年錯用心。
@@ -165,11 +120,7 @@
 #+END_VERSE
 」¶
 
-登祝融峯
-:PROPERTIES:
-:head: 登祝融峯
-:END:
-¶
+登祝融峯¶
 
 #+BEGIN_VERSE
 「　南嶽諸峯七十二。
@@ -183,11 +134,7 @@
 #+END_VERSE
 」¶
 
-方廣寺
-:PROPERTIES:
-:head: 方廣寺
-:END:
-¶
+方廣寺¶
 
 #+BEGIN_VERSE
 「　雲中玉磬無時響。
@@ -197,11 +144,7 @@
 #+END_VERSE
 」¶
 
-訪趙野雲不值
-:PROPERTIES:
-:head: 訪趙野雲不值
-:END:
-¶
+訪趙野雲不值¶
 
 #+BEGIN_VERSE
 「　久思閑對老維摩。
@@ -211,26 +154,18 @@
 #+END_VERSE
 」¶
 
-圓書記之錢唐
-:PROPERTIES:
-:head: 圓書記之錢唐
-:END:
-¶
+圓書記之錢唐¶
 
 #+BEGIN_VERSE
 「　誰管鮎魚上竹竿。
-　𢬵身捱得髑髏乾。
+　[拚-ㄙ+ㄊ]身捱得髑髏乾。
 　者回歸¶去西湖上。
 　犢草鷗波不亂看。
 #+END_VERSE
 」
 <pb:KR6q0065_T_007-1035a>¶
 
-彌藏主歸潮陽
-:PROPERTIES:
-:head: 彌藏主歸潮陽
-:END:
-¶
+彌藏主歸潮陽¶
 
 #+BEGIN_VERSE
 「　穆穆叢林見老成。
@@ -240,11 +175,7 @@
 #+END_VERSE
 」¶
 
-斷橋
-:PROPERTIES:
-:head: 斷橋
-:END:
-¶
+斷橋¶
 
 #+BEGIN_VERSE
 「　瞎驢一蹈兩頭空。
@@ -254,11 +185,7 @@
 #+END_VERSE
 」¶
 
-訪南湖晦嵓講主
-:PROPERTIES:
-:head: 訪南湖晦嵓講主
-:END:
-¶
+訪南湖晦嵓講主¶
 
 #+BEGIN_VERSE
 「　講堂迷却散花人。
@@ -268,11 +195,7 @@
 #+END_VERSE
 」¶
 
-謝戴悟庵
-:PROPERTIES:
-:head: 謝戴悟庵
-:END:
-¶
+謝戴悟庵¶
 
 #+BEGIN_VERSE
 「　深荷城東老淨名。
@@ -282,17 +205,13 @@
 #+END_VERSE
 」¶
 
-觀山水圖。留休禪者
-:PROPERTIES:
-:head: 觀山水圖。留休禪者
-:END:
-¶
+觀山水圖。留休禪者¶
 
 #+BEGIN_VERSE
 「　近遠何多趣。
 　難將尺寸求。
-　向來柀嶽頂。
-　今¶已遍神州。
+　向來披嶽頂。
+　今¶已偏神州。
 　水肅蒼林晚。
 　寒生玉井秋。
 　圓蒲¶冷相對。
@@ -300,11 +219,7 @@
 #+END_VERSE
 」¶
 
-求猫子
-:PROPERTIES:
-:head: 求猫子
-:END:
-¶
+求猫子¶
 
 #+BEGIN_VERSE
 「　堂上新生虎面狸。
@@ -314,11 +229,7 @@
 #+END_VERSE
 」¶
 
-通禪客進納
-:PROPERTIES:
-:head: 通禪客進納
-:END:
-¶
+通禪客進納¶
 
 #+BEGIN_VERSE
 「　衲僧肘後箇靈符。
@@ -328,14 +239,10 @@
 #+END_VERSE
 」¶
 
-送僧見龍泉不庵
-:PROPERTIES:
-:head: 送僧見龍泉不庵
-:END:
-¶
+送僧見龍泉不庵¶
 
 #+BEGIN_VERSE
-「　太阿橫桉。
+「　太阿橫按。
 　血淋漓。
 　鐵作心肝也皺眉。
 　入得¶門來翻死欵。
@@ -343,11 +250,7 @@
 #+END_VERSE
 」¶
 
-鬮觀音背水陸幀
-:PROPERTIES:
-:head: 鬮觀音背水陸幀
-:END:
-¶
+鬮觀音背水陸幀¶
 
 #+BEGIN_VERSE
 「　吉祥大士捨全身。
@@ -358,14 +261,10 @@
 」¶
 
 霞谷清夜
-:PROPERTIES:
-:head: 霞谷清夜
-:END:
-
 <pb:KR6q0065_T_007-1035b>¶
 
 #+BEGIN_VERSE
-「　執晝蘊丘壑。
+「　執晝蘊丘[堅-臣+(虍-七+(一/谷))]。
 　冥機未策勳。
 　瓦匜消古篆。
 　石榻¶伴歸雲。
@@ -376,11 +275,7 @@
 #+END_VERSE
 」¶
 
-送先侍者
-:PROPERTIES:
-:head: 送先侍者
-:END:
-¶
+送先侍者¶
 
 #+BEGIN_VERSE
 「　半怯春寒病未甦。
@@ -390,11 +285,7 @@
 #+END_VERSE
 」¶
 
-送文瘦牛
-:PROPERTIES:
-:head: 送文瘦牛
-:END:
-¶
+送文瘦牛¶
 
 #+BEGIN_VERSE
 「　一味清寒骨拄皮。
@@ -404,11 +295,7 @@
 #+END_VERSE
 」¶
 
-玄黃不真
-:PROPERTIES:
-:head: 玄黃不真
-:END:
-¶
+玄黃不真¶
 
 #+BEGIN_VERSE
 「　萬物自全璧。
@@ -422,11 +309,7 @@
 #+END_VERSE
 」¶
 
-黑白何咎
-:PROPERTIES:
-:head: 黑白何咎
-:END:
-¶
+黑白何咎¶
 
 #+BEGIN_VERSE
 「　世事亂如麻。
@@ -440,11 +323,7 @@
 #+END_VERSE
 」¶
 
-謝芝峯交承惠茶
-:PROPERTIES:
-:head: 謝芝峯交承惠茶
-:END:
-¶
+謝芝峯交承惠茶¶
 
 #+BEGIN_VERSE
 「　揀芽芳字出山南。
@@ -454,25 +333,17 @@
 #+END_VERSE
 」¶
 
-棘林
-:PROPERTIES:
-:head: 棘林
-:END:
-¶
+棘林¶
 
 #+BEGIN_VERSE
 「　海鳳飛來不敢棲。
 　舊條新刺利如錐。
 　茫茫出¶得出不得。
-　只許𢬵身到者知。
+　只許[拚-ㄙ+ㄊ]身到者知。
 #+END_VERSE
 」¶
 
-趙開府訪霞谷。次韻謝之
-:PROPERTIES:
-:head: 趙開府訪霞谷。次韻謝之
-:END:
-¶
+趙開府訪霞谷。次韻謝之¶
 
 #+BEGIN_VERSE
 「　旌幢天外見。
@@ -486,11 +357,7 @@
 #+END_VERSE
 」¶
 
-茶寄樓司令
-:PROPERTIES:
-:head: 茶寄樓司令
-:END:
-¶
+茶寄樓司令¶
 
 #+BEGIN_VERSE
 「　暖風雀舌鬧芳叢。
@@ -501,11 +368,7 @@
 #+END_VERSE
 」¶
 
-送鑒座主
-:PROPERTIES:
-:head: 送鑒座主
-:END:
-¶
+送鑒座主¶
 
 #+BEGIN_VERSE
 「　紙燈吹滅尚迂回。
@@ -515,11 +378,7 @@
 #+END_VERSE
 」¶
 
-僧禮補陀
-:PROPERTIES:
-:head: 僧禮補陀
-:END:
-¶
+僧禮補陀¶
 
 #+BEGIN_VERSE
 「　孤蹤抹過海門東。
@@ -529,11 +388,7 @@
 #+END_VERSE
 」¶
 
-送騰禪者
-:PROPERTIES:
-:head: 送騰禪者
-:END:
-¶
+送騰禪者¶
 
 #+BEGIN_VERSE
 「　別我芝嵓舊主情。
@@ -543,11 +398,7 @@
 #+END_VERSE
 」¶
 
-遊棲霞觀
-:PROPERTIES:
-:head: 遊棲霞觀
-:END:
-¶
+遊棲霞觀¶
 
 #+BEGIN_VERSE
 「　海上多幽蹟。
@@ -561,11 +412,7 @@
 #+END_VERSE
 」¶
 
-僧之金陵
-:PROPERTIES:
-:head: 僧之金陵
-:END:
-¶
+僧之金陵¶
 
 #+BEGIN_VERSE
 「　良宵桂月耿中庭。
@@ -575,11 +422,7 @@
 #+END_VERSE
 」¶
 
-寄晦嵓佛光法師
-:PROPERTIES:
-:head: 寄晦嵓佛光法師
-:END:
-¶
+寄晦嵓佛光法師¶
 
 #+BEGIN_VERSE
 「　對文箋釋通人到。
@@ -589,11 +432,7 @@
 #+END_VERSE
 」¶
 
-昌老號竹谿
-:PROPERTIES:
-:head: 昌老號竹谿
-:END:
-¶
+昌老號竹谿¶
 
 #+BEGIN_VERSE
 「　疎疎綠影釀寒清。
@@ -603,11 +442,7 @@
 #+END_VERSE
 」¶
 
-潭老號古囦
-:PROPERTIES:
-:head: 潭老號古囦
-:END:
-¶
+潭老號古囦¶
 
 #+BEGIN_VERSE
 「　蛟龍窟宅初無底。
@@ -617,11 +452,7 @@
 #+END_VERSE
 」¶
 
-溥禪者西還
-:PROPERTIES:
-:head: 溥禪者西還
-:END:
-¶
+溥禪者西還¶
 
 #+BEGIN_VERSE
 「　梅影稀疎蘭葉香。
@@ -632,11 +463,7 @@
 」
 <pb:KR6q0065_T_007-1036a>¶
 
-僧字止中
-:PROPERTIES:
-:head: 僧字止中
-:END:
-¶
+僧字止中¶
 
 #+BEGIN_VERSE
 「　鍊實而食。
@@ -648,11 +475,7 @@
 #+END_VERSE
 」¶
 
-閱侍者鏡潭
-:PROPERTIES:
-:head: 閱侍者鏡潭
-:END:
-¶
+閱侍者鏡潭¶
 
 #+BEGIN_VERSE
 「　雨過天風靜。
@@ -662,11 +485,7 @@
 #+END_VERSE
 」¶
 
-牧童
-:PROPERTIES:
-:head: 牧童
-:END:
-¶
+牧童¶
 
 #+BEGIN_VERSE
 「　煙暖溪。頭草正肥。
@@ -676,11 +495,7 @@
 #+END_VERSE
 」¶
 
-漁父
-:PROPERTIES:
-:head: 漁父
-:END:
-¶
+漁父¶
 
 #+BEGIN_VERSE
 「　菰蒲葉冷暮天低。
@@ -690,11 +505,7 @@
 #+END_VERSE
 」¶
 
-曾禪人唯之
-:PROPERTIES:
-:head: 曾禪人唯之
-:END:
-¶
+曾禪人唯之¶
 
 #+BEGIN_VERSE
 「　當頭一諾未為親。
@@ -704,11 +515,7 @@
 #+END_VERSE
 」¶
 
-楫禪人之太白
-:PROPERTIES:
-:head: 楫禪人之太白
-:END:
-¶
+楫禪人之太白¶
 
 #+BEGIN_VERSE
 「　明明不可銘。
@@ -722,11 +529,7 @@
 #+END_VERSE
 」¶
 
-萬松山贈張省元
-:PROPERTIES:
-:head: 萬松山贈張省元
-:END:
-¶
+萬松山贈張省元¶
 
 #+BEGIN_VERSE
 「　鑽仰無門靡不通。
@@ -736,11 +539,7 @@
 #+END_VERSE
 」¶
 
-僧遊台雁
-:PROPERTIES:
-:head: 僧遊台雁
-:END:
-¶
+僧遊台雁¶
 
 #+BEGIN_VERSE
 「　音旨雙消不可聞。
@@ -750,11 +549,7 @@
 #+END_VERSE
 」¶
 
-床屏怪松
-:PROPERTIES:
-:head: 床屏怪松
-:END:
-¶
+床屏怪松¶
 
 #+BEGIN_VERSE
 「　蛟幹虬枝巧作蟠。
@@ -765,10 +560,6 @@
 」¶
 
 僧歸越
-:PROPERTIES:
-:head: 僧歸越
-:END:
-
 <pb:KR6q0065_T_007-1036b>¶
 
 #+BEGIN_VERSE
@@ -779,11 +570,7 @@
 #+END_VERSE
 」¶
 
-遠塵軒
-:PROPERTIES:
-:head: 遠塵軒
-:END:
-¶
+遠塵軒¶
 
 #+BEGIN_VERSE
 「　開窓種脩竹。
@@ -793,11 +580,7 @@
 #+END_VERSE
 」¶
 
-遊金華洞天
-:PROPERTIES:
-:head: 遊金華洞天
-:END:
-¶
+遊金華洞天¶
 
 #+BEGIN_VERSE
 「　颼颼崖溜靜邊聞。
@@ -807,11 +590,7 @@
 #+END_VERSE
 」¶
 
-寄婺守趙玉堂
-:PROPERTIES:
-:head: 寄婺守趙玉堂
-:END:
-¶
+寄婺守趙玉堂¶
 
 #+BEGIN_VERSE
 「　儒釋同科到者稀。
@@ -821,11 +600,7 @@
 #+END_VERSE
 」¶
 
-題書畫什後
-:PROPERTIES:
-:head: 題書畫什後
-:END:
-¶
+題書畫什後¶
 
 #+BEGIN_VERSE
 「　發揮多古跡。
@@ -839,11 +614,7 @@
 #+END_VERSE
 」¶
 
-冬夜示俊侍者
-:PROPERTIES:
-:head: 冬夜示俊侍者
-:END:
-¶
+冬夜示俊侍者¶
 
 #+BEGIN_VERSE
 「　守得烏薪暖氣回。
@@ -853,11 +624,7 @@
 #+END_VERSE
 」¶
 
-靈竺權衡之訪婺守會雙林
-:PROPERTIES:
-:head: 靈竺權衡之訪婺守會雙林
-:END:
-¶
+靈竺權衡之訪婺守會雙林¶
 
 #+BEGIN_VERSE
 「　不將一字顯今宗。
@@ -878,11 +645,7 @@
 #+END_VERSE
 」¶
 
-演僧史錢月林
-:PROPERTIES:
-:head: 演僧史錢月林
-:END:
-¶
+演僧史錢月林¶
 
 #+BEGIN_VERSE
 「　濬發靈機口角邊。
@@ -893,10 +656,6 @@
 」¶
 
 淵禪人之乳峯
-:PROPERTIES:
-:head: 淵禪人之乳峯
-:END:
-
 <pb:KR6q0065_T_007-1036c>¶
 
 #+BEGIN_VERSE
@@ -907,11 +666,7 @@
 #+END_VERSE
 」¶
 
-羅漢樹
-:PROPERTIES:
-:head: 羅漢樹
-:END:
-¶
+羅漢樹¶
 
 #+BEGIN_VERSE
 「　稽首如來種。
@@ -925,11 +680,7 @@
 #+END_VERSE
 」¶
 
-上四明守黃侍郎辭延福
-:PROPERTIES:
-:head: 上四明守黃侍郎辭延福
-:END:
-¶
+上四明守黃侍郎辭延福¶
 
 #+BEGIN_VERSE
 「　雨化仁陶德愈馨。
@@ -942,17 +693,13 @@
 #+BEGIN_VERSE
 「　石床久矣臥雲林。
 　六十銀絲兩鬢侵。
-　海上浮¶盃。
+　海上浮¶柸。
 　心已息。
 　掬溪容我竊棠陰。
 #+END_VERSE
 」¶
 
-寄寂照庵主
-:PROPERTIES:
-:head: 寄寂照庵主
-:END:
-¶
+寄寂照庵主¶
 
 #+BEGIN_VERSE
 「　遠引高蹤繼覆盆。
@@ -962,11 +709,7 @@
 #+END_VERSE
 」¶
 
-示祖躬禪人
-:PROPERTIES:
-:head: 示祖躬禪人
-:END:
-¶
+示祖躬禪人¶
 
 #+BEGIN_VERSE
 「　祖意明明在爾躬。
@@ -976,25 +719,17 @@
 #+END_VERSE
 」¶
 
-安座主更衣
-:PROPERTIES:
-:head: 安座主更衣
-:END:
-¶
+安座主更衣¶
 
 #+BEGIN_VERSE
 「　良遂曾敲麻谷門。
-　不相謾。處主賓分。
+　不相漫。處主賓分。
 　子來¶親見虛堂叟。
 　兩耳垂肩坐白雲。
 #+END_VERSE
 」¶
 
-天竺送僧之昌邑
-:PROPERTIES:
-:head: 天竺送僧之昌邑
-:END:
-¶
+天竺送僧之昌邑¶
 
 #+BEGIN_VERSE
 「　肅然凝目引秋光。
@@ -1004,11 +739,7 @@
 #+END_VERSE
 」¶
 
-動靜雙照
-:PROPERTIES:
-:head: 動靜雙照
-:END:
-¶
+動靜雙照¶
 
 #+BEGIN_VERSE
 「　舉息冥方所。
@@ -1022,11 +753,7 @@
 #+END_VERSE
 」¶
 
-物我兩忘
-:PROPERTIES:
-:head: 物我兩忘
-:END:
-¶
+物我兩忘¶
 
 #+BEGIN_VERSE
 「　居常多不器。
@@ -1041,11 +768,7 @@
 #+END_VERSE
 」¶
 
-慧禪人之萬年
-:PROPERTIES:
-:head: 慧禪人之萬年
-:END:
-¶
+慧禪人之萬年¶
 
 #+BEGIN_VERSE
 「　鼠入錢筒伎已窮。
@@ -1055,11 +778,7 @@
 #+END_VERSE
 」¶
 
-示明禪者
-:PROPERTIES:
-:head: 示明禪者
-:END:
-¶
+示明禪者¶
 
 #+BEGIN_VERSE
 「　面壁風規久寂寥。
@@ -1069,11 +788,7 @@
 #+END_VERSE
 」¶
 
-齊禪者之道場
-:PROPERTIES:
-:head: 齊禪者之道場
-:END:
-¶
+齊禪者之道場¶
 
 #+BEGIN_VERSE
 「　峯從險處自孤起。
@@ -1083,11 +798,7 @@
 #+END_VERSE
 」¶
 
-厲道人字弗云
-:PROPERTIES:
-:head: 厲道人字弗云
-:END:
-¶
+厲道人字弗云¶
 
 #+BEGIN_VERSE
 「　身墮虛空如夢覺。
@@ -1097,11 +808,7 @@
 #+END_VERSE
 」¶
 
-靈山聽猿齋祖首座號無傳
-:PROPERTIES:
-:head: 靈山聽猿齋祖首座號無傳
-:END:
-¶
+靈山聽猿齋祖首座號無傳¶
 
 #+BEGIN_VERSE
 「　龍猛因緣會北齋。
@@ -1111,11 +818,7 @@
 #+END_VERSE
 」¶
 
-酬覺如居士
-:PROPERTIES:
-:head: 酬覺如居士
-:END:
-¶
+酬覺如居士¶
 
 #+BEGIN_VERSE
 「　覺體如如不變時。
@@ -1125,11 +828,7 @@
 #+END_VERSE
 」¶
 
-北山庵居
-:PROPERTIES:
-:head: 北山庵居
-:END:
-¶
+北山庵居¶
 
 #+BEGIN_VERSE
 「　祖擔終難荷。
@@ -1143,11 +842,7 @@
 #+END_VERSE
 」¶
 
-恭欽二禪人之長庚
-:PROPERTIES:
-:head: 恭欽二禪人之長庚
-:END:
-¶
+恭欽二禪人之長庚¶
 
 #+BEGIN_VERSE
 「　難兄難弟未全知。
@@ -1157,11 +852,7 @@
 #+END_VERSE
 」¶
 
-訪月上人幽室
-:PROPERTIES:
-:head: 訪月上人幽室
-:END:
-¶
+訪月上人幽室¶
 
 #+BEGIN_VERSE
 「　竹裏池清雲屋深。
@@ -1172,11 +863,7 @@
 #+END_VERSE
 」¶
 
-寄東湖溥侍者
-:PROPERTIES:
-:head: 寄東湖溥侍者
-:END:
-¶
+寄東湖溥侍者¶
 
 #+BEGIN_VERSE
 「　聲前未舉已先知。
@@ -1186,11 +873,7 @@
 #+END_VERSE
 」¶
 
-送泰闍梨
-:PROPERTIES:
-:head: 送泰闍梨
-:END:
-¶
+送泰闍梨¶
 
 #+BEGIN_VERSE
 「　井梧初墮別芝園。
@@ -1200,11 +883,7 @@
 #+END_VERSE
 」¶
 
-送涇禪者
-:PROPERTIES:
-:head: 送涇禪者
-:END:
-¶
+送涇禪者¶
 
 #+BEGIN_VERSE
 「　白鳥明邊秋思遠。
@@ -1214,11 +893,7 @@
 #+END_VERSE
 」¶
 
-溥禪人歸疎山
-:PROPERTIES:
-:head: 溥禪人歸疎山
-:END:
-¶
+溥禪人歸疎山¶
 
 #+BEGIN_VERSE
 「　故山臨汝夢秋江。
@@ -1228,11 +903,7 @@
 #+END_VERSE
 」¶
 
-立禪人平山
-:PROPERTIES:
-:head: 立禪人平山
-:END:
-¶
+立禪人平山¶
 
 #+BEGIN_VERSE
 「　依依遠勢接雲根。
@@ -1242,25 +913,17 @@
 #+END_VERSE
 」¶
 
-宣知客歸江心
-:PROPERTIES:
-:head: 宣知客歸江心
-:END:
-¶
+宣知客歸江心¶
 
 #+BEGIN_VERSE
 「　風帽雲巾歷所期。
 　問津何似到家時。
 　曲闌半¶倚垂楊外。
-　潮落潮生秪自知。
+　潮落潮生祇自知。
 #+END_VERSE
 」¶
 
-寄節維那
-:PROPERTIES:
-:head: 寄節維那
-:END:
-¶
+寄節維那¶
 
 #+BEGIN_VERSE
 「　幾度忘言話克賓。
@@ -1270,11 +933,7 @@
 #+END_VERSE
 」¶
 
-酬李新恩惠竹杖
-:PROPERTIES:
-:head: 酬李新恩惠竹杖
-:END:
-¶
+酬李新恩惠竹杖¶
 
 #+BEGIN_VERSE
 「　一枝蒼玉寄宵人。
@@ -1284,11 +943,7 @@
 #+END_VERSE
 」¶
 
-元藏主遊方
-:PROPERTIES:
-:head: 元藏主遊方
-:END:
-¶
+元藏主遊方¶
 
 #+BEGIN_VERSE
 「　罵詈瞿曇說脫空。
@@ -1299,10 +954,6 @@
 」¶
 
 得頤
-:PROPERTIES:
-:head: 得頤
-:END:
-
 <pb:KR6q0065_T_007-1037c>¶
 
 #+BEGIN_VERSE
@@ -1313,11 +964,7 @@
 #+END_VERSE
 」¶
 
-冷泉送文禪者之天台
-:PROPERTIES:
-:head: 冷泉送文禪者之天台
-:END:
-¶
+冷泉送文禪者之天台¶
 
 #+BEGIN_VERSE
 「　惠理呼猿日。
@@ -1327,11 +974,7 @@
 #+END_VERSE
 」¶
 
-送信禪人
-:PROPERTIES:
-:head: 送信禪人
-:END:
-¶
+送信禪人¶
 
 #+BEGIN_VERSE
 「　誠信之言是道根。
@@ -1341,11 +984,7 @@
 #+END_VERSE
 」¶
 
-正禪者歸菴
-:PROPERTIES:
-:head: 正禪者歸菴
-:END:
-¶
+正禪者歸菴¶
 
 #+BEGIN_VERSE
 「　方廣靈蹤為絕概。
@@ -1355,11 +994,7 @@
 #+END_VERSE
 」¶
 
-文禪人臨哀北堂
-:PROPERTIES:
-:head: 文禪人臨哀北堂
-:END:
-¶
+文禪人臨哀北堂¶
 
 #+BEGIN_VERSE
 「　捲衣東去淚沾巾。
@@ -1369,11 +1004,7 @@
 #+END_VERSE
 」¶
 
-寄雪竇足首座
-:PROPERTIES:
-:head: 寄雪竇足首座
-:END:
-¶
+寄雪竇足首座¶
 
 #+BEGIN_VERSE
 「　光鋩曾不著纖埃。
@@ -1383,11 +1014,7 @@
 #+END_VERSE
 」¶
 
-衍鞏珙三禪德之國清
-:PROPERTIES:
-:head: 衍鞏珙三禪德之國清
-:END:
-¶
+衍鞏珙三禪德之國清¶
 
 #+BEGIN_VERSE
 「　誰知三隱寂寥中。
@@ -1397,11 +1024,7 @@
 #+END_VERSE
 」¶
 
-送僧之嚴
-:PROPERTIES:
-:head: 送僧之嚴
-:END:
-¶
+送僧之嚴¶
 
 #+BEGIN_VERSE
 「　對蒲方話蘿窓底。
@@ -1411,28 +1034,20 @@
 #+END_VERSE
 」¶
 
-送逢侍者
-:PROPERTIES:
-:head: 送逢侍者
-:END:
-¶
+送逢侍者¶
 
 #+BEGIN_VERSE
 「　銷鑠精微復見人。
 　青鞋蹈破幾重雲。
 　鷲峯孤¶頂來辭我。
-　秪有秋光可共分。
+　祇有秋光可共分。
 #+END_VERSE
 」¶
 
-本禪人爛柴
-:PROPERTIES:
-:head: 本禪人爛柴
-:END:
-¶
+本禪人爛柴¶
 
 #+BEGIN_VERSE
-「　秪。為到頭乾不盡。
+「　祇。為到頭乾不盡。
 　縱饒見火亦難吹。
 　年來¶歲往消磨去。
 　不許春風管帶伊。
@@ -1440,11 +1055,7 @@
 」
 <pb:KR6q0065_T_007-1038a>¶
 
-崖泉應虛室
-:PROPERTIES:
-:head: 崖泉應虛室
-:END:
-¶
+崖泉應虛室¶
 
 #+BEGIN_VERSE
 「　天籟發中靜。
@@ -1458,11 +1069,7 @@
 #+END_VERSE
 」¶
 
-題漁磯
-:PROPERTIES:
-:head: 題漁磯
-:END:
-¶
+題漁磯¶
 
 #+BEGIN_VERSE
 「　秋竿倚石臺。
@@ -1472,11 +1079,7 @@
 #+END_VERSE
 」¶
 
-電嵓相者
-:PROPERTIES:
-:head: 電嵓相者
-:END:
-¶
+電嵓相者¶
 
 #+BEGIN_VERSE
 「　妙處未形三寸舌。
@@ -1486,11 +1089,7 @@
 #+END_VERSE
 」¶
 
-大義庵主
-:PROPERTIES:
-:head: 大義庵主
-:END:
-¶
+大義庵主¶
 
 #+BEGIN_VERSE
 「　山根旋縛尖頭屋。
@@ -1500,11 +1099,7 @@
 #+END_VERSE
 」¶
 
-傅禪人空谷
-:PROPERTIES:
-:head: 傅禪人空谷
-:END:
-¶
+傅禪人空谷¶
 
 #+BEGIN_VERSE
 「　洞然非洞亦非盤。
@@ -1514,11 +1109,7 @@
 #+END_VERSE
 」¶
 
-送小師無二回中川
-:PROPERTIES:
-:head: 送小師無二回中川
-:END:
-¶
+送小師無二回中川¶
 
 #+BEGIN_VERSE
 「　蜃江來訪竺山春。
@@ -1528,11 +1119,7 @@
 #+END_VERSE
 」¶
 
-此軒
-:PROPERTIES:
-:head: 此軒
-:END:
-¶
+此軒¶
 
 #+BEGIN_VERSE
 「　一梁對一柱。
@@ -1542,11 +1129,7 @@
 #+END_VERSE
 」¶
 
-古梅
-:PROPERTIES:
-:head: 古梅
-:END:
-¶
+古梅¶
 
 #+BEGIN_VERSE
 「　千年苔樹不成春。
@@ -1556,11 +1139,7 @@
 #+END_VERSE
 」¶
 
-獨舫軒
-:PROPERTIES:
-:head: 獨舫軒
-:END:
-¶
+獨舫軒¶
 
 #+BEGIN_VERSE
 「　踪跡渾如漾綠漪。
@@ -1571,10 +1150,6 @@
 」¶
 
 霞光亭
-:PROPERTIES:
-:head: 霞光亭
-:END:
-
 <pb:KR6q0065_T_007-1038b>¶
 
 #+BEGIN_VERSE
@@ -1585,11 +1160,7 @@
 #+END_VERSE
 」¶
 
-泳侍者不受育王藏主
-:PROPERTIES:
-:head: 泳侍者不受育王藏主
-:END:
-¶
+泳侍者不受育王藏主¶
 
 #+BEGIN_VERSE
 「　劫空田地自由身。
@@ -1599,11 +1170,7 @@
 #+END_VERSE
 」¶
 
-明知客江心訪竺峯
-:PROPERTIES:
-:head: 明知客江心訪竺峯
-:END:
-¶
+明知客江心訪竺峯¶
 
 #+BEGIN_VERSE
 「　歷盡風霜兒不枯。
@@ -1613,11 +1180,7 @@
 #+END_VERSE
 」¶
 
-對雪
-:PROPERTIES:
-:head: 對雪
-:END:
-¶
+對雪¶
 
 #+BEGIN_VERSE
 「　郊郊寒翠濕癡雲。
@@ -1627,11 +1190,7 @@
 #+END_VERSE
 」¶
 
-上竺池院歸鷲峯菴
-:PROPERTIES:
-:head: 上竺池院歸鷲峯菴
-:END:
-¶
+上竺池院歸鷲峯菴¶
 
 #+BEGIN_VERSE
 「　鷲嶺心旌動。
@@ -1645,11 +1204,7 @@
 #+END_VERSE
 」¶
 
-次白雲端和尚韻。禮楊岐會禪師塔
-:PROPERTIES:
-:head: 次白雲端和尚韻。禮楊岐會禪師塔
-:END:
-¶
+次白雲端和尚韻。禮楊岐會禪師塔¶
 
 #+BEGIN_VERSE
 「　來拜東山祖。
@@ -1663,25 +1218,17 @@
 #+END_VERSE
 」¶
 
-禮道吾雷。迁塔在石霜
-:PROPERTIES:
-:head: 禮道吾雷。迁塔在石霜
-:END:
-¶
+禮道吾雷。遷塔在石霜¶
 
 #+BEGIN_VERSE
 「　祖師靈骨見應難。
 　霹靂聲中過別山。
-　父子¶秪緣機不密。
+　父子¶祇緣機不密。
 　翻成千古是非關。
 #+END_VERSE
 」¶
 
-謝夢庵居士性宗集
-:PROPERTIES:
-:head: 謝夢庵居士性宗集
-:END:
-¶
+謝夢庵居士性宗集¶
 
 #+BEGIN_VERSE
 「　性本無宗夢亦非。
@@ -1691,11 +1238,7 @@
 #+END_VERSE
 」¶
 
-寄崇福源長老
-:PROPERTIES:
-:head: 寄崇福源長老
-:END:
-¶
+寄崇福源長老¶
 
 #+BEGIN_VERSE
 「　一髮千鈞適此時。
@@ -1706,10 +1249,6 @@
 」¶
 
 愷藏主號庾嶺
-:PROPERTIES:
-:head: 愷藏主號庾嶺
-:END:
-
 <pb:KR6q0065_T_007-1038c>¶
 
 #+BEGIN_VERSE
@@ -1720,25 +1259,17 @@
 #+END_VERSE
 」¶
 
-白糍寄夢匃
-:PROPERTIES:
-:head: 白糍寄夢匃
-:END:
-¶
+白糍寄夢匃¶
 
 #+BEGIN_VERSE
-「　黃秫爛舂如切玉。
+「　黃[禾*(尤-尢+木)]爛舂如切玉。
 　醉人風味忍沾唇。
 　火爐頭¶話煩君舉。
 　莫作粘牙綴齒人。
 #+END_VERSE
 」¶
 
-淨髮吳生
-:PROPERTIES:
-:head: 淨髮吳生
-:END:
-¶
+淨髮吳生¶
 
 #+BEGIN_VERSE
 「　適意多雲水。
@@ -1752,11 +1283,7 @@
 #+END_VERSE
 」¶
 
-村樂圖
-:PROPERTIES:
-:head: 村樂圖
-:END:
-¶
+村樂圖¶
 
 #+BEGIN_VERSE
 「　一年田地熟。
@@ -1766,11 +1293,7 @@
 #+END_VERSE
 」¶
 
-自賦息畊
-:PROPERTIES:
-:head: 自賦息畊
-:END:
-¶
+自賦息畊¶
 
 #+BEGIN_VERSE
 「　葉深煙氣暖。
@@ -1780,11 +1303,7 @@
 #+END_VERSE
 」¶
 
-送鄱陽復道者
-:PROPERTIES:
-:head: 送鄱陽復道者
-:END:
-¶
+送鄱陽復道者¶
 
 #+BEGIN_VERSE
 「　相逢道人漆雙瞳。
@@ -1802,11 +1321,7 @@
 #+END_VERSE
 」¶
 
-寄星婺適莊居士
-:PROPERTIES:
-:head: 寄星婺適莊居士
-:END:
-¶
+寄星婺適莊居士¶
 
 #+BEGIN_VERSE
 「　稽首毘耶金粟身。
@@ -1816,11 +1331,7 @@
 #+END_VERSE
 」¶
 
-寄雪竇性首座
-:PROPERTIES:
-:head: 寄雪竇性首座
-:END:
-¶
+寄雪竇性首座¶
 
 #+BEGIN_VERSE
 「　祝融峯下燒紅葉。
@@ -1830,11 +1341,7 @@
 #+END_VERSE
 」¶
 
-送茂侍者
-:PROPERTIES:
-:head: 送茂侍者
-:END:
-¶
+送茂侍者¶
 
 #+BEGIN_VERSE
 「　木葉辭柯霜氣清。
@@ -1845,11 +1352,7 @@
 #+END_VERSE
 」¶
 
-春日對鏡
-:PROPERTIES:
-:head: 春日對鏡
-:END:
-¶
+春日對鏡¶
 
 #+BEGIN_VERSE
 「　不住復新新。
@@ -1863,11 +1366,7 @@
 #+END_VERSE
 」¶
 
-送炳書記
-:PROPERTIES:
-:head: 送炳書記
-:END:
-¶
+送炳書記¶
 
 #+BEGIN_VERSE
 「　心鏡頻磨髮漸斑。
@@ -1877,11 +1376,7 @@
 #+END_VERSE
 」¶
 
-法光藏主之南徐
-:PROPERTIES:
-:head: 法光藏主之南徐
-:END:
-¶
+法光藏主之南徐¶
 
 #+BEGIN_VERSE
 「　三呼檮下愧靈襟。
@@ -1891,11 +1386,7 @@
 #+END_VERSE
 」¶
 
-實禪者歸省
-:PROPERTIES:
-:head: 實禪者歸省
-:END:
-¶
+實禪者歸省¶
 
 #+BEGIN_VERSE
 「　靈山禪起未溫席。
@@ -1905,11 +1396,7 @@
 #+END_VERSE
 」¶
 
-璟和尚號石庵
-:PROPERTIES:
-:head: 璟和尚號石庵
-:END:
-¶
+璟和尚號石庵¶
 
 #+BEGIN_VERSE
 「　空嵓為屋薜蘿門。
@@ -1919,11 +1406,7 @@
 #+END_VERSE
 」¶
 
-可禪人歸江心
-:PROPERTIES:
-:head: 可禪人歸江心
-:END:
-¶
+可禪人歸江心¶
 
 #+BEGIN_VERSE
 「　每思槌拂恨難酬。
@@ -1933,11 +1416,7 @@
 #+END_VERSE
 」¶
 
-送僧省母
-:PROPERTIES:
-:head: 送僧省母
-:END:
-¶
+送僧省母¶
 
 #+BEGIN_VERSE
 「　十年來往浙東西。
@@ -1947,11 +1426,7 @@
 #+END_VERSE
 」¶
 
-寄都省羅太尉
-:PROPERTIES:
-:head: 寄都省羅太尉
-:END:
-¶
+寄都省羅太尉¶
 
 #+BEGIN_VERSE
 「　海涵山育氣如春。
@@ -1961,11 +1436,7 @@
 #+END_VERSE
 」¶
 
-淨覃藏主遊方
-:PROPERTIES:
-:head: 淨覃藏主遊方
-:END:
-¶
+淨覃藏主遊方¶
 
 #+BEGIN_VERSE
 「　叢林荒落水雲寒。
@@ -1976,11 +1447,7 @@
 」
 <pb:KR6q0065_T_007-1039b>¶
 
-德惟侍者巡禮
-:PROPERTIES:
-:head: 德惟侍者巡禮
-:END:
-¶
+德惟侍者巡禮¶
 
 #+BEGIN_VERSE
 「　巖。桂初飄好問津。
@@ -1990,11 +1457,7 @@
 #+END_VERSE
 」¶
 
-通藏主之南國
-:PROPERTIES:
-:head: 通藏主之南國
-:END:
-¶
+通藏主之南國¶
 
 #+BEGIN_VERSE
 「　春人長淮野燒青。
@@ -2004,11 +1467,7 @@
 #+END_VERSE
 」¶
 
-立藏主之三衢
-:PROPERTIES:
-:head: 立藏主之三衢
-:END:
-¶
+立藏主之三衢¶
 
 #+BEGIN_VERSE
 「　一會靈山已七年。
@@ -2018,11 +1477,7 @@
 #+END_VERSE
 」¶
 
-端書記赴雲城辟命
-:PROPERTIES:
-:head: 端書記赴雲城辟命
-:END:
-¶
+端書記赴雲城辟命¶
 
 #+BEGIN_VERSE
 「　不遊文苑入祇園。
@@ -2032,11 +1487,7 @@
 #+END_VERSE
 」¶
 
-慶藏主之南屏
-:PROPERTIES:
-:head: 慶藏主之南屏
-:END:
-¶
+慶藏主之南屏¶
 
 #+BEGIN_VERSE
 「　曾向殊方典竺墳。
@@ -2046,11 +1497,7 @@
 #+END_VERSE
 」¶
 
-隱侍者遊乳峯
-:PROPERTIES:
-:head: 隱侍者遊乳峯
-:END:
-¶
+隱侍者遊乳峯¶
 
 #+BEGIN_VERSE
 「　竇深惟古雪。
@@ -2064,11 +1511,7 @@
 #+END_VERSE
 」¶
 
-寄慈峯故人
-:PROPERTIES:
-:head: 寄慈峯故人
-:END:
-¶
+寄慈峯故人¶
 
 #+BEGIN_VERSE
 「　湖面春歸物理明。
@@ -2078,11 +1521,7 @@
 #+END_VERSE
 」¶
 
-無補侍者遊方
-:PROPERTIES:
-:head: 無補侍者遊方
-:END:
-¶
+無補侍者遊方¶
 
 #+BEGIN_VERSE
 「　索索青鞋蹈曉霜。
@@ -2092,11 +1531,7 @@
 #+END_VERSE
 」¶
 
-[沔-丏+丐]禪人之雁蕩
-:PROPERTIES:
-:head: 沔禪人之雁蕩
-:END:
-¶
+[沔-丏+丐]禪人之雁蕩¶
 
 #+BEGIN_VERSE
 「　風高木落雁山秋。
@@ -2107,10 +1542,6 @@
 」¶
 
 珙侍者之[沔-丏+丐]
-:PROPERTIES:
-:head: 珙侍者之沔
-:END:
-
 <pb:KR6q0065_T_007-1039c>¶
 
 #+BEGIN_VERSE
@@ -2121,11 +1552,7 @@
 #+END_VERSE
 」¶
 
-贈許居士
-:PROPERTIES:
-:head: 贈許居士
-:END:
-¶
+贈許居士¶
 
 #+BEGIN_VERSE
 「　山儀不裹龐公帽。
@@ -2135,11 +1562,7 @@
 #+END_VERSE
 」¶
 
-贈妙喜社道友
-:PROPERTIES:
-:head: 贈妙喜社道友
-:END:
-¶
+贈妙喜社道友¶
 
 #+BEGIN_VERSE
 「　斷來妙喜針鋒上。
@@ -2149,11 +1572,7 @@
 #+END_VERSE
 」¶
 
-示日本智光禪人
-:PROPERTIES:
-:head: 示日本智光禪人
-:END:
-¶
+示日本智光禪人¶
 
 #+BEGIN_VERSE
 「　隱隱孤帆絕海來。
@@ -2163,11 +1582,7 @@
 #+END_VERSE
 」¶
 
-送永嘉祖意禪人
-:PROPERTIES:
-:head: 送永嘉祖意禪人
-:END:
-¶
+送永嘉祖意禪人¶
 
 #+BEGIN_VERSE
 「　識得祖師端的意。
@@ -2177,11 +1592,7 @@
 #+END_VERSE
 」¶
 
-心侍者歸省
-:PROPERTIES:
-:head: 心侍者歸省
-:END:
-¶
+心侍者歸省¶
 
 #+BEGIN_VERSE
 「　露葉蕭蕭月滿庭。
@@ -2191,11 +1602,7 @@
 #+END_VERSE
 」¶
 
-就明書懷
-:PROPERTIES:
-:head: 就明書懷
-:END:
-¶
+就明書懷¶
 
 #+BEGIN_VERSE
 「　流菜非深隱。
@@ -2209,11 +1616,7 @@
 #+END_VERSE
 」¶
 
-海首座號怒濤
-:PROPERTIES:
-:head: 海首座號怒濤
-:END:
-¶
+海首座號怒濤¶
 
 #+BEGIN_VERSE
 「　憂國憂民日夜驚。
@@ -2223,11 +1626,7 @@
 #+END_VERSE
 」¶
 
-天竺玉輪師赴覺海
-:PROPERTIES:
-:head: 天竺玉輪師赴覺海
-:END:
-¶
+天竺玉輪師赴覺海¶
 
 #+BEGIN_VERSE
 「　妙旨惟從句外求。
@@ -2237,11 +1636,7 @@
 #+END_VERSE
 」¶
 
-賀契師庵居
-:PROPERTIES:
-:head: 賀契師庵居
-:END:
-¶
+賀契師庵居¶
 
 #+BEGIN_VERSE
 「　正席雲山萬象回。
@@ -2252,11 +1647,7 @@
 #+END_VERSE
 」¶
 
-揖讓圖
-:PROPERTIES:
-:head: 揖讓圖
-:END:
-¶
+揖讓圖¶
 
 #+BEGIN_VERSE
 「　行必有師。
@@ -2266,11 +1657,7 @@
 #+END_VERSE
 」¶
 
-山行示思穆侍者
-:PROPERTIES:
-:head: 山行示思穆侍者
-:END:
-¶
+山行示思穆侍者¶
 
 #+BEGIN_VERSE
 「　春水綠浮影。
@@ -2280,11 +1667,7 @@
 #+END_VERSE
 」¶
 
-雲谷術士
-:PROPERTIES:
-:head: 雲谷術士
-:END:
-¶
+雲谷術士¶
 
 #+BEGIN_VERSE
 「　出則無心應有聲。
@@ -2294,25 +1677,17 @@
 #+END_VERSE
 」¶
 
-鐫者任廷
-:PROPERTIES:
-:head: 鐫者任廷
-:END:
-¶
+鐫者任廷¶
 
 #+BEGIN_VERSE
 「　入石入木知分數。
 　古篆今篆攻豈難。
-　秪因雕¶巧失真體。
+　祇因雕¶巧失真體。
 　不見全文在世間。
 #+END_VERSE
 」¶
 
-剃剪林榮
-:PROPERTIES:
-:head: 剃剪林榮
-:END:
-¶
+剃剪林榮¶
 
 #+BEGIN_VERSE
 「　眾技爾為得。
@@ -2326,39 +1701,27 @@
 #+END_VERSE
 」¶
 
-韜光室
-:PROPERTIES:
-:head: 韜光室
-:END:
-¶
+韜光室¶
 
 #+BEGIN_VERSE
 「　懶光栽花傍竹籬。
 　旋收巖葉毳寒衣。
-　不知陵¶谷幾遷變。
+　不知陸¶谷幾遷變。
 　時見斷雲相逐歸。
 #+END_VERSE
 」¶
 
-三友堂
-:PROPERTIES:
-:head: 三友堂
-:END:
-¶
+三友堂¶
 
 #+BEGIN_VERSE
 「　清客蒼官會此君。
 　歲寒不減舊精神。
-　有時品¶字論交態。
+　有時品¶字論交熊。
 　各有丰標遠襲人。
 #+END_VERSE
 」¶
 
-碧照軒
-:PROPERTIES:
-:head: 碧照軒
-:END:
-¶
+碧照軒¶
 
 #+BEGIN_VERSE
 「　剪木依山巧鑿池。
@@ -2368,11 +1731,7 @@
 #+END_VERSE
 」¶
 
-荷衣沼
-:PROPERTIES:
-:head: 荷衣沼
-:END:
-¶
+荷衣沼¶
 
 #+BEGIN_VERSE
 「　水面綠盤擎雨出。
@@ -2383,11 +1742,7 @@
 」
 <pb:KR6q0065_T_007-1040b>¶
 
-岳林古渡
-:PROPERTIES:
-:head: 岳林古渡
-:END:
-¶
+岳林古渡¶
 
 #+BEGIN_VERSE
 「　契翁來作濟人舟。
@@ -2397,11 +1752,7 @@
 #+END_VERSE
 」¶
 
-長汀煙雨
-:PROPERTIES:
-:head: 長汀煙雨
-:END:
-¶
+長汀煙雨¶
 
 #+BEGIN_VERSE
 「　漪漪遠水漾明邊。
@@ -2411,11 +1762,7 @@
 #+END_VERSE
 」¶
 
-酬李寄軒
-:PROPERTIES:
-:head: 酬李寄軒
-:END:
-¶
+酬李寄軒¶
 
 #+BEGIN_VERSE
 「　寄傲知何所。
@@ -2429,11 +1776,7 @@
 #+END_VERSE
 」¶
 
-惟侍者號曲江
-:PROPERTIES:
-:head: 惟侍者號曲江
-:END:
-¶
+惟侍者號曲江¶
 
 #+BEGIN_VERSE
 「　源脈滔滔古岸頭。
@@ -2443,11 +1786,7 @@
 #+END_VERSE
 」¶
 
-日本源侍者游台雁
-:PROPERTIES:
-:head: 日本源侍者游台雁
-:END:
-¶
+日本源侍者游台雁¶
 
 #+BEGIN_VERSE
 「　師道嚴明善應酬。
@@ -2457,11 +1796,7 @@
 #+END_VERSE
 」¶
 
-示內記藻侍者
-:PROPERTIES:
-:head: 示內記藻侍者
-:END:
-¶
+示內記藻侍者¶
 
 #+BEGIN_VERSE
 「　當年濟北辭黃檗。
@@ -2471,11 +1806,7 @@
 #+END_VERSE
 」¶
 
-德信西上
-:PROPERTIES:
-:head: 德信西上
-:END:
-¶
+德信西上¶
 
 #+BEGIN_VERSE
 「　出門溪葉亂紛紛。
@@ -2485,31 +1816,19 @@
 #+END_VERSE
 」¶
 
-壬戌登雪竇
-:PROPERTIES:
-:head: 壬戌登雪竇
-:END:
-¶
+壬戌登雪竇¶
 
-錦鏡
-:PROPERTIES:
-:head: 錦鏡
-:END:
-¶
+錦鏡¶
 
 #+BEGIN_VERSE
 「　池面溶溶水照空。
 　春風花影落青銅。
 　倚欄擬¶作機頭看。
-　已墮阿師圈䙡中。
+　已墮阿師圈[袖-由+貴]中。
 #+END_VERSE
 」¶
 
-妙高
-:PROPERTIES:
-:head: 妙高
-:END:
-¶
+妙高¶
 
 #+BEGIN_VERSE
 「　松枯石老凍雲垂。
@@ -2520,11 +1839,7 @@
 」
 <pb:KR6q0065_T_007-1040c>¶
 
-飛雪
-:PROPERTIES:
-:head: 飛雪
-:END:
-¶
+飛雪¶
 
 #+BEGIN_VERSE
 「　黑風袞袞六花輕。
@@ -2534,11 +1849,7 @@
 #+END_VERSE
 」¶
 
-水仙
-:PROPERTIES:
-:head: 水仙
-:END:
-¶
+水仙¶
 
 #+BEGIN_VERSE
 「　芳心塵外潔。
@@ -2548,11 +1859,7 @@
 #+END_VERSE
 」¶
 
-墨竹
-:PROPERTIES:
-:head: 墨竹
-:END:
-¶
+墨竹¶
 
 #+BEGIN_VERSE
 「　毫端不及處。
@@ -2562,11 +1869,7 @@
 #+END_VERSE
 」¶
 
-浙江潮圖
-:PROPERTIES:
-:head: 浙江潮圖
-:END:
-¶
+浙江潮圖¶
 
 #+BEGIN_VERSE
 「　怒勢自驚殊莫擬。
@@ -2576,11 +1879,7 @@
 #+END_VERSE
 」¶
 
-老融牛圖
-:PROPERTIES:
-:head: 老融牛圖
-:END:
-¶
+老融牛圖¶
 
 #+BEGIN_VERSE
 「　純去自忘牧。
@@ -2590,11 +1889,7 @@
 #+END_VERSE
 」¶
 
-梁楷忘機圖
-:PROPERTIES:
-:head: 梁楷忘機圖
-:END:
-¶
+梁楷忘機圖¶
 
 #+BEGIN_VERSE
 「　尋常忘物我。
@@ -2604,11 +1899,7 @@
 #+END_VERSE
 」¶
 
-常牧溪猿圖
-:PROPERTIES:
-:head: 常牧溪猿圖
-:END:
-¶
+常牧溪猿圖¶
 
 #+BEGIN_VERSE
 「　霜墮群林空。
@@ -2622,11 +1913,7 @@
 #+END_VERSE
 」¶
 
-荷鷺
-:PROPERTIES:
-:head: 荷鷺
-:END:
-¶
+荷鷺¶
 
 #+BEGIN_VERSE
 「　沙嘴坡頭。
